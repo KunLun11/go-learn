@@ -54,6 +54,8 @@
 - **Закрепление (30 мин):** [Tour of Go](https://go.dev/tour/) — «Flow control statements».
   [Exercism Go](https://exercism.org/tracks/go): концепции *Basics* и *Numbers, strings,
   booleans* (Lasagna, Vehicle Purchase, Cars Assemble или аналоги).
+  **Практикум по переменным и условиям:** [week-01-exercises.md](week-01-exercises.md) —
+  30 задач с решениями, начиная с этой темы.
 - **Проект (30 мин):** парсинг аргументов через `flag`: `-o table|json`, `-timeout`,
   `-c` (пока игнорируется). Выведи распарсенные значения.
 - **Заметки:** почему неявные конверсии запрещены и как это спасает от багов.
